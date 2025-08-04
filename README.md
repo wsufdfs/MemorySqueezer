@@ -59,6 +59,8 @@ ReservePercent=2        ; 保留内存百分比
 MemoryLimit=256         ; 内存安全限制(MB)
 UseMultiprocessing=false ; 是否使用多进程
 WorkerProcesses=4       ; 工作进程数
+SqueezeVirtualMemory=false ;是否压榨虚拟内存（默认false）
+VirtualMemoryLimit=1024  ;虚拟内存安全限制（MB）
 
 [Window]
 Width=600              ; 窗口宽度
