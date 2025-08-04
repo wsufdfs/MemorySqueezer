@@ -27,7 +27,6 @@ Memory Squeezer 是一个用于测试系统内存性能的工具，可以模拟�
 ```bash
 git clone https://github.com/yourusername/memory-squeezer.git
 cd memory-squeezer
-```
 
 2. 安装依赖
 ```bash
