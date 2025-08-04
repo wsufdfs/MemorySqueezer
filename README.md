@@ -1,4 +1,3 @@
-```markdown
 Memory Squeezer - 内存压榨器
 
  简介
