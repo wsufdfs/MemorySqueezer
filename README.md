@@ -1,11 +1,11 @@
 ```markdown
-# Memory Squeezer - 内存压榨器
+Memory Squeezer - 内存压榨器
 
-## 简介
+ 简介
 
 Memory Squeezer 是一个用于测试系统内存性能的工具，可以模拟高内存使用场景，帮助开发者测试应用程序在内存压力下的表现。
 
-## 功能特性
+ 功能特性
 
 - ✅ 单线程和多进程内存压榨模式
 - ✅ 可配置的内存块大小和分配速度
@@ -92,4 +92,4 @@ LogLevel=INFO           ; 日志级别
 
 ## 贡献指南
 
-欢迎提交 Issue 或 Pull Request 来改进本项目
+欢迎提交 Issue 或 Pull Request 来改进本项目。
