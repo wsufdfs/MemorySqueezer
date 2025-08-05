@@ -22,11 +22,26 @@ Memory Squeezer 是一个用于测试系统在内存压力下的表现，使用d
 ## 安装
 
 ### 第一种
-1.从Releases下载最新版本的程序
+
+1. 从Releases下载最新版本的程序
+
 ![9b5f71d8-b98f-413a-8157-ab6cadb9ec49.png](https://youke1.picui.cn/s1/2025/08/05/6891b7b470e3a.png)
 点击后下滑，然后点击图片箭头所指的地方
 ![d9fe2610-a5ed-446b-bfcb-509a5befc000.png](https://youke1.picui.cn/s1/2025/08/05/6891bbb9c9254.png)
-2.双击程序
+
+2. 运行程序
+
+双击下载的程序，弹出的弹窗一直选Yes(PS：第一个选No更快)
+<img width="351" height="151" alt="image" src="https://github.com/user-attachments/assets/a99ed54a-f5c4-4f1c-bcea-285220e647c4" />
+<img width="243" height="202" alt="image" src="https://github.com/user-attachments/assets/f949a56d-9ae1-4ad0-9e73-8dee411c7ca2" />
+<img width="497" height="151" alt="image" src="https://github.com/user-attachments/assets/28ee1027-551e-40bb-8a37-6a8b585cc701" />
+<img width="291" height="168" alt="image" src="https://github.com/user-attachments/assets/e7e901d3-f189-4ccf-86f5-3d84f027f7e0" />
+
+3. 开始压榨
+
+点击开始压榨按钮后弹出的弹窗一直选Yes(PS：这次不能No)
+![e869d12d-aff0-4d50-910b-8e5233023813.png](https://youke1.picui.cn/s1/2025/08/05/6891bf72934e.png)
+
 ### 第二种
 1. 克隆仓库或下载源代码
 ```bash
@@ -40,6 +55,18 @@ cd memory-squeezer
 ```bash
 pip install PyQt5 psutil
 ```
+3. 运行程序
+
+双击下载的程序，弹出的弹窗一直选Yes(PS：第一个选No更快)
+<img width="351" height="151" alt="image" src="https://github.com/user-attachments/assets/a99ed54a-f5c4-4f1c-bcea-285220e647c4" />
+<img width="243" height="202" alt="image" src="https://github.com/user-attachments/assets/f949a56d-9ae1-4ad0-9e73-8dee411c7ca2" />
+<img width="497" height="151" alt="image" src="https://github.com/user-attachments/assets/28ee1027-551e-40bb-8a37-6a8b585cc701" />
+<img width="291" height="168" alt="image" src="https://github.com/user-attachments/assets/e7e901d3-f189-4ccf-86f5-3d84f027f7e0" />
+
+4. 开始压榨
+
+点击开始压榨按钮后弹出的弹窗一直选Yes(PS：这次不能No)
+![e869d12d-aff0-4d50-910b-8e5233023813.png](https://youke1.picui.cn/s1/2025/08/05/6891bf72934e.png)
 
 ## 使用方法
 
@@ -106,8 +133,6 @@ LogLevel=INFO           ; 日志级别
 
 欢迎提交 Issue 或 Pull Request 来改进本项目。
 
-## 联系我们
-
-程序作者QQ：640384548
+### 程序作者QQ：640384548
 
 官方QQ群：925707447
