@@ -39,8 +39,8 @@ Memory Squeezer 是一个用于测试系统在内存压力下的表现，使用d
 
 3. 开始压榨
 
-点击开始压榨按钮后弹出的弹窗一直选Yes(PS：这次不能No)
-![e869d12d-aff0-4d50-910b-8e5233023813.png](https://youke1.picui.cn/s1/2025/08/05/6891bf72934e.png)
+点击开始压榨按钮后弹出的弹窗一直选Yes(PS：这次不能选No)
+<img width="602" height="532" alt="e869d12d-aff0-4d50-910b-8e5233023813" src="https://github.com/user-attachments/assets/96b662e8-8317-4b2b-8f7d-bc70c5ebc38f" />
 
 ### 第二种
 1. 克隆仓库或下载源代码
@@ -65,8 +65,8 @@ pip install PyQt5 psutil
 
 4. 开始压榨
 
-点击开始压榨按钮后弹出的弹窗一直选Yes(PS：这次不能No)
-![e869d12d-aff0-4d50-910b-8e5233023813.png](https://youke1.picui.cn/s1/2025/08/05/6891bf72934e.png)
+点击开始压榨按钮后弹出的弹窗一直选Yes(PS：这次不能选No)
+<img width="602" height="532" alt="e869d12d-aff0-4d50-910b-8e5233023813" src="https://github.com/user-attachments/assets/96b662e8-8317-4b2b-8f7d-bc70c5ebc38f" />
 
 ## 使用方法
 
