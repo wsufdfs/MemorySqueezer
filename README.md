@@ -23,7 +23,7 @@ Memory Squeezer 是一个用于测试系统在内存压力下的表现，使用d
 
 ### 第一种
 1.从Releases下载最新版本的程序
-![](9b5f71d8-b98f-413a-8157-ab6cadb9ec49.png)
+![9b5f71d8-b98f-413a-8157-ab6cadb9ec49.png](https://youke1.picui.cn/s1/2025/08/05/6891b7b470e3a.png)
 2.双击程序
 ### 第二种
 1. 克隆仓库或下载源代码
