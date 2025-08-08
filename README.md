@@ -57,7 +57,11 @@ pip install PyQt5 psutil
 ```
 3. 运行程序
 
-双击下载的程序，弹出的弹窗一直选Yes(PS：第一个选No更快)
+```bash
+python memory_squeezer.py
+```
+
+运行程序，弹出的弹窗一直选Yes(PS：第一个选No更快)
 <img width="351" height="151" alt="image" src="https://github.com/user-attachments/assets/a99ed54a-f5c4-4f1c-bcea-285220e647c4" />
 <img width="243" height="202" alt="image" src="https://github.com/user-attachments/assets/f949a56d-9ae1-4ad0-9e73-8dee411c7ca2" />
 <img width="497" height="151" alt="image" src="https://github.com/user-attachments/assets/28ee1027-551e-40bb-8a37-6a8b585cc701" />
@@ -68,20 +72,6 @@ pip install PyQt5 psutil
 点击开始压榨按钮后弹出的弹窗一直选Yes(PS：这次不能选No)
 <img width="602" height="532" alt="e869d12d-aff0-4d50-910b-8e5233023813" src="https://github.com/user-attachments/assets/96b662e8-8317-4b2b-8f7d-bc70c5ebc38f" />
 
-## 使用方法
-
-### 基本使用
-
-1. 运行程序
-```bash
-python memory_squeezer.py
-```
-
-2. 点击"开始压榨"按钮启动内存压榨
-
-3. 观察内存使用情况和进度
-
-4. 使用"安全停止"或"紧急停止"结束压榨
 
 ### 配置选项
 
